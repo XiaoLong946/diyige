@@ -1,0 +1,4 @@
+app/
+lala.txt
+long/
+xiao/
