@@ -1,4 +1,0 @@
-app/
-lala.txt
-longlsdlfk
-xiao/
